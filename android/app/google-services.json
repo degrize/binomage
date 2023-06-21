@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580719082504",
+    "project_id": "binomage-30877",
+    "storage_bucket": "binomage-30877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580719082504:android:a601e8b9b9dd6f2c6625bd",
+        "android_client_info": {
+          "package_name": "com.inginfo2.binomage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580719082504-rkmko4j45g16mdtmnbq82j811bqsqt9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssHJ00FB-qdr_6Zyr0sGmJNf8cWuYPvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580719082504-rkmko4j45g16mdtmnbq82j811bqsqt9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
